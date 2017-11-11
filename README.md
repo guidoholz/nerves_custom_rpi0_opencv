@@ -8,4 +8,4 @@ All packages for OpenCV3 are compiled with buildroot
 More infos about the root-system https://github.com/nerves-project/nerves_system_rpi0
 
 Have a look at the test in a nerves-project:
-https://github.com/nerves-project/test_nerves_system_rpi0
+https://github.com/guidoholz/test_nerves_custom_rpi0_opencv
